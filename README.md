@@ -1,2 +1,1 @@
-# -Educational-Institution-Website
- A Frontend Project for an Educational Institution Website
+I developed a frontend project for an educational institution website using HTML, CSS, JavaScript, and Bootstrap. The website includes multiple pages, such as homepage, about, courses, FAQ, blog, and contact, with a modern and professional design. I utilized various frontend technologies and tools to create a user-friendly and engaging interface, featuring a search bar, newsletter subscription, and custom sections.
